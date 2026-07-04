@@ -23,7 +23,7 @@ effectiveness across 12 departments during my Python Internship at NeoSOFT Techn
 
 ## Dashboard
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.PNG)
 
 ## Note on Data
 This dashboard was built using internal company training data as part of my internship.
